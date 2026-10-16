@@ -165,7 +165,8 @@ Through this project, I demonstrated practical skills in:
 
 The repository contains the Power BI dashboard file and a screenshot of the report.
 
-- `CodeAlpha_Exploratory_Data_Analysis.pbix` — Power BI report containing the dashboard and its visualizations.
+- `retail_sales_dataset.csv`
+- `Retail_Sales_EDA_Dashboard.pbix` — Power BI report containing the dashboard and its visualizations.
 - `EDA dashboard.PNG` — Screenshot preview of the completed dashboard.
 
 The original dataset can also be included in the repository if you have permission to redistribute it.
